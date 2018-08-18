@@ -1,4 +1,7 @@
-# WHMCS OATH Addon (WHMCS v6 & v7)
+# WHMCS OATH Addon (WHMCS v6, v7.6)
+
+Note: This Addon is a fork of [openfactory-ch/whmcs-oath-addon](https://github.com/openfactory-ch/whmcs-oath-addon)  and not developed by [Dewlance](https://dewlance.com/) - See Creit link. We only fixed minor issue and we do not provide support for This module because of I am not a programmer. Can't help you but you can add request to main project.
+
 
 This WHMCS addon module provides OATH-based two-factor authentication. You'd normally use this with a mobile app, like Google Authenticator (Free, [iOS](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8) / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en)).
 
@@ -22,7 +25,7 @@ Since the codebase and database is exactly the same and only minimal stuff have 
 
 ## Issues
 
-Latest tested Release: WHMCS v7.1.1.
+Latest tested Release: WHMCS v7.6
 
 If you discover any issues or bugs, please report them on the [issue tracker](https://github.com/openfactory-ch/whmcs-oath-addon/issues).
 
