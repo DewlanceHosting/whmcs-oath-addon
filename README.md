@@ -1,3 +1,6 @@
+# WHMCS OATH Addon - Announcement: We will add Support for WHMCS v8. Soon new version will be available)
+
+
 # WHMCS OATH Addon (WHMCS v6, v7.6)
 
 Note: This Addon is a fork of [openfactory-ch/whmcs-oath-addon](https://github.com/openfactory-ch/whmcs-oath-addon)  and not developed by [Dewlance](https://dewlance.com/) - See Credit link. We only fixed minor issue and we do not provide support for This module because of I am not a programmer. Can't help you but you can add request to main project.
